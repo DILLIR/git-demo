@@ -1,5 +1,6 @@
-This is lind of song : la la la
+This is lind of song : la la
 Some new lines
 New one
 
 And even more of song 
+New lines in feature
